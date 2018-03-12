@@ -7,6 +7,8 @@ random variable: the first dimension is the duration of the old faithful geyser 
 The second is the waiting time between eruptions. Generate a 2-D scatter plot of the data.
 Run a k-means clustering routine on the data for k=2. Show the two clusters in a
 scatterplot.
+
+
 [EM]
 - Write a 2-dimensional RNG for a Gaussian mixture model (GMM) pdf with 2 subpopulations.
 Use any function/sub-routine available in your language of choice.
@@ -18,6 +20,8 @@ distributions featuring each of the following: a) spherical covariance matrices,
 covariance matrices, and c) poorly-separated subpopulations.
 - Apply your GMM-EM algorithm to fit the “old faithful” data set to a GMM pdf with two
 components.
+
+
 [Clusters of Text]
 Download the “nips-87-92” data set from blackboard. This contains a bag-of-words data set
 for NIPS papers from 1987-1992. Columns in this bag-of-words model represent the
@@ -32,3 +36,4 @@ Turn in:
 relevant numerical results
 - brief discussions of the results
 - a print out of your code.
+
