@@ -31,6 +31,8 @@ scatterplots are not useful.
 - Run your k-means clustering method to cluster the row vectors of the data set. Try
 different values of k and pick the best value
 - Report your clusters by listing the document ids for each cluster.
+
+
 Turn in:
 - A summary of your experiments including histograms of your data, any relevant plots, and
 relevant numerical results
